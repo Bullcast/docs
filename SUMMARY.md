@@ -1,10 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to Bullcast](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Demo](overview/demo.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides

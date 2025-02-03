@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✨ Our Features
 
 {% hint style="info" %}

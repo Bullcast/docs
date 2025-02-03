@@ -1,4 +1,4 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Bullcast
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -6,40 +6,28 @@
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+Bullcast is an **AI-powered DeFi assistant** that helps users **automate** and **optimize** their trading and investment strategies. By leveraging **AI-driven price predictions**, Bullcast enables seamless interactions with DeFi protocols through a chat-based interface.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+With Bullcast, users can **forecast price** movements, automate token swaps, provide liquidity, and engage in yield farming. The AI model processes real-time market data, offering actionable insights and automation capabilities on the $SUI blockchain. Developers can also integrate Bullcast’s API to access its prediction engine and DeFi automation tools.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+### Features
 
-## Quick links
+* ✅ **Token Transfers**
+* ✅ **Swaps**
+* ✅ **Auto-Investment**
+* ✅ **API for Prediction**
+* ✅ **Feeds Price Data from Pyth Network Oracle**
+* 🚀 **Providing Liquidity (Proof of Concept)**
+* 🚀 **Yield Farming (Proof of Concept)**
+* 🚀 **Auto-Investment with Pyth Network (Proof of Concept)**
+* ✅ **Price Action Predictions**
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+### Blockchain Support
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+* **Primary Focus**: $SUI Blockchain
+  * Chosen for its efficiency and suitability for AI-driven DeFi applications.
+* Will integrate EVM chains as Base, Ethereum.
 
-## Get Started
+### Architecture
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
