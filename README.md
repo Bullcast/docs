@@ -21,6 +21,7 @@ With Bullcast, users can **forecast price** movements, automate token swaps, pro
 * 🚀 **Yield Farming (Proof of Concept)**
 * 🚀 **Auto-Investment with Pyth Network (Proof of Concept)**
 * ✅ **Price Action Predictions**
+* 🚀 **Prediction Challenges & Incentive Mechanism**: Users can participate in daily, weekly, and monthly prediction challenges. If their price predictions are more accurate than the AI model, they earn tokens as rewards. This creates an incentive-based "**Predict-to-Earn**" mechanism.
 
 ### Blockchain Support
 
